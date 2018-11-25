@@ -1,1 +1,1 @@
-# Sina-weibo-scraping
+# Some scraping practices by Python 
