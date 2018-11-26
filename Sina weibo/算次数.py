@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 22 14:52:39 2017
 
-@author: jilig
+@author: Cyril Tang
 """
 
 import xlrd
