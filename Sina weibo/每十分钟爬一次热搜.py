@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 24 19:21:01 2017
 
-@author: jilig
+@author: Cyril Tang
 """
 import requests  
 import re  
